@@ -1,0 +1,9 @@
+
+Arreglo original
+1 9 3 7 5 
+Tamanio del arreglo : 5
+
+Arreglo ordenado por insercion
+1 3 5 7 9 
+
+La suma de los elementos del arreglo es : 25
